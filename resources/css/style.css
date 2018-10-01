@@ -5,17 +5,33 @@
 }
 
 h1 {
-  font-weight: normal;
   font-size: 50px;
+  font-weight: normal;
   color: white;
 }
 
 a:link {
-  color: aquamarine;
   font-size: 16px;
+  color: aquamarine;
 }
 
 a:visited {
-  color: aquamarine;
   font-size: 16px;
+  color: aquamarine;
+}
+
+.video {
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
 }
